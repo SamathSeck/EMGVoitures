@@ -1,0 +1,39 @@
+﻿@model IEnumerable<EMGVoitures.Models.Voiture>
+
+<h2>Liste des Voitures</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Marque</th>
+            <th>Modèle</th>
+            <th>Année</th>
+            <th>Description</th>
+            <th>Photo</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var voiture in Model)
+        {
+            <tr>
+                <td>@voiture.Marque</td>
+                <td>@voiture.Modele</td>
+                <td>@voiture.Annee</td>
+                <td>@voiture.Description</td>
+                <td>
+                    @if (!string.IsNullOrEmpty(voiture.PhotoUrl))
+                    {
+                        <img src="@voiture.PhotoUrl" alt="Image" width="100" />
+                    }
+                </td>
+                <td>
+                    <a href="@Url.Action("Edit", new { id = voiture.Id })" class="btn btn-warning">Modifier</a>
+                    <a href="@Url.Action("Delete", new { id = voiture.Id })" class="btn btn-danger">Supprimer</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a href="@Url.Action("Create")" class="btn btn-primary">Ajouter une voiture</a>

@@ -1,0 +1,330 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mhd\\source\\repos\\EMGVoitures\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C275DC56-94DA-49B2-8F95-3F44387C1610}|EMGVoitures\\EMGVoitures.csproj|c:\\users\\mhd\\source\\repos\\emgvoitures\\emgvoitures\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C275DC56-94DA-49B2-8F95-3F44387C1610}|EMGVoitures\\EMGVoitures.csproj|solutionrelative:emgvoitures\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C275DC56-94DA-49B2-8F95-3F44387C1610}|EMGVoitures\\EMGVoitures.csproj|c:\\users\\mhd\\source\\repos\\emgvoitures\\emgvoitures\\data\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C275DC56-94DA-49B2-8F95-3F44387C1610}|EMGVoitures\\EMGVoitures.csproj|solutionrelative:emgvoitures\\data\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C275DC56-94DA-49B2-8F95-3F44387C1610}|EMGVoitures\\EMGVoitures.csproj|c:\\users\\mhd\\source\\repos\\emgvoitures\\emgvoitures\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C275DC56-94DA-49B2-8F95-3F44387C1610}|EMGVoitures\\EMGVoitures.csproj|solutionrelative:emgvoitures\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C275DC56-94DA-49B2-8F95-3F44387C1610}|EMGVoitures\\EMGVoitures.csproj|c:\\users\\mhd\\source\\repos\\emgvoitures\\emgvoitures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C275DC56-94DA-49B2-8F95-3F44387C1610}|EMGVoitures\\EMGVoitures.csproj|solutionrelative:emgvoitures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C275DC56-94DA-49B2-8F95-3F44387C1610}|EMGVoitures\\EMGVoitures.csproj|c:\\users\\mhd\\source\\repos\\emgvoitures\\emgvoitures\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C275DC56-94DA-49B2-8F95-3F44387C1610}|EMGVoitures\\EMGVoitures.csproj|solutionrelative:emgvoitures\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C275DC56-94DA-49B2-8F95-3F44387C1610}|EMGVoitures\\EMGVoitures.csproj|c:\\users\\mhd\\source\\repos\\emgvoitures\\emgvoitures\\views\\voitures\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C275DC56-94DA-49B2-8F95-3F44387C1610}|EMGVoitures\\EMGVoitures.csproj|solutionrelative:emgvoitures\\views\\voitures\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C275DC56-94DA-49B2-8F95-3F44387C1610}|EMGVoitures\\EMGVoitures.csproj|c:\\users\\mhd\\source\\repos\\emgvoitures\\emgvoitures\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C275DC56-94DA-49B2-8F95-3F44387C1610}|EMGVoitures\\EMGVoitures.csproj|solutionrelative:emgvoitures\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C275DC56-94DA-49B2-8F95-3F44387C1610}|EMGVoitures\\EMGVoitures.csproj|c:\\users\\mhd\\source\\repos\\emgvoitures\\emgvoitures\\controllers\\voiturescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C275DC56-94DA-49B2-8F95-3F44387C1610}|EMGVoitures\\EMGVoitures.csproj|solutionrelative:emgvoitures\\controllers\\voiturescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DFD8D11-445E-4E05-AD65-695FAAC9DBFE}|EMGVoitures.Tests\\EMGVoitures.Tests.csproj|c:\\users\\mhd\\source\\repos\\emgvoitures\\emgvoitures.tests\\voiturescontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DFD8D11-445E-4E05-AD65-695FAAC9DBFE}|EMGVoitures.Tests\\EMGVoitures.Tests.csproj|solutionrelative:emgvoitures.tests\\voiturescontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C275DC56-94DA-49B2-8F95-3F44387C1610}|EMGVoitures\\EMGVoitures.csproj|c:\\users\\mhd\\source\\repos\\emgvoitures\\emgvoitures\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C275DC56-94DA-49B2-8F95-3F44387C1610}|EMGVoitures\\EMGVoitures.csproj|solutionrelative:emgvoitures\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C275DC56-94DA-49B2-8F95-3F44387C1610}|EMGVoitures\\EMGVoitures.csproj|c:\\users\\mhd\\source\\repos\\emgvoitures\\emgvoitures\\views\\voitures\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C275DC56-94DA-49B2-8F95-3F44387C1610}|EMGVoitures\\EMGVoitures.csproj|solutionrelative:emgvoitures\\views\\voitures\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C275DC56-94DA-49B2-8F95-3F44387C1610}|EMGVoitures\\EMGVoitures.csproj|c:\\users\\mhd\\source\\repos\\emgvoitures\\emgvoitures\\views\\voitures\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C275DC56-94DA-49B2-8F95-3F44387C1610}|EMGVoitures\\EMGVoitures.csproj|solutionrelative:emgvoitures\\views\\voitures\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DFD8D11-445E-4E05-AD65-695FAAC9DBFE}|EMGVoitures.Tests\\EMGVoitures.Tests.csproj|c:\\users\\mhd\\source\\repos\\emgvoitures\\emgvoitures.tests\\emgvoitures.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3DFD8D11-445E-4E05-AD65-695FAAC9DBFE}|EMGVoitures.Tests\\EMGVoitures.Tests.csproj|solutionrelative:emgvoitures.tests\\emgvoitures.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C275DC56-94DA-49B2-8F95-3F44387C1610}|EMGVoitures\\EMGVoitures.csproj|c:\\users\\mhd\\source\\repos\\emgvoitures\\emgvoitures\\emgvoitures.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C275DC56-94DA-49B2-8F95-3F44387C1610}|EMGVoitures\\EMGVoitures.csproj|solutionrelative:emgvoitures\\emgvoitures.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C275DC56-94DA-49B2-8F95-3F44387C1610}|EMGVoitures\\EMGVoitures.csproj|c:\\users\\mhd\\source\\repos\\emgvoitures\\emgvoitures\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C275DC56-94DA-49B2-8F95-3F44387C1610}|EMGVoitures\\EMGVoitures.csproj|solutionrelative:emgvoitures\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C275DC56-94DA-49B2-8F95-3F44387C1610}|EMGVoitures\\EMGVoitures.csproj|c:\\users\\mhd\\source\\repos\\emgvoitures\\emgvoitures\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C275DC56-94DA-49B2-8F95-3F44387C1610}|EMGVoitures\\EMGVoitures.csproj|solutionrelative:emgvoitures\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C275DC56-94DA-49B2-8F95-3F44387C1610}|EMGVoitures\\EMGVoitures.csproj|c:\\users\\mhd\\source\\repos\\emgvoitures\\emgvoitures\\models\\voiture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C275DC56-94DA-49B2-8F95-3F44387C1610}|EMGVoitures\\EMGVoitures.csproj|solutionrelative:emgvoitures\\models\\voiture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C275DC56-94DA-49B2-8F95-3F44387C1610}|EMGVoitures\\EMGVoitures.csproj|c:\\users\\mhd\\source\\repos\\emgvoitures\\emgvoitures\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C275DC56-94DA-49B2-8F95-3F44387C1610}|EMGVoitures\\EMGVoitures.csproj|solutionrelative:emgvoitures\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\mhd\\source\\repos\\EMGVoitures\\EMGVoitures\\Data\\ApplicationDbContextFactory.cs",
+              "RelativeDocumentMoniker": "EMGVoitures\\Data\\ApplicationDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\mhd\\source\\repos\\EMGVoitures\\EMGVoitures\\Data\\ApplicationDbContextFactory.cs",
+              "RelativeToolTip": "EMGVoitures\\Data\\ApplicationDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T14:07:29.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\mhd\\source\\repos\\EMGVoitures\\EMGVoitures\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EMGVoitures\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\mhd\\source\\repos\\EMGVoitures\\EMGVoitures\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EMGVoitures\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-30T23:26:02.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mhd\\source\\repos\\EMGVoitures\\EMGVoitures\\Program.cs",
+              "RelativeDocumentMoniker": "EMGVoitures\\Program.cs",
+              "ToolTip": "C:\\Users\\mhd\\source\\repos\\EMGVoitures\\EMGVoitures\\Program.cs",
+              "RelativeToolTip": "EMGVoitures\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAowDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T12:54:30.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mhd\\source\\repos\\EMGVoitures\\EMGVoitures\\Views\\Voitures\\Index.cshtml",
+              "RelativeDocumentMoniker": "EMGVoitures\\Views\\Voitures\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mhd\\source\\repos\\EMGVoitures\\EMGVoitures\\Views\\Voitures\\Index.cshtml",
+              "RelativeToolTip": "EMGVoitures\\Views\\Voitures\\Index.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T00:45:36.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\mhd\\source\\repos\\EMGVoitures\\EMGVoitures\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "EMGVoitures\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\mhd\\source\\repos\\EMGVoitures\\EMGVoitures\\appsettings.Development.json",
+              "RelativeToolTip": "EMGVoitures\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-31T13:42:37.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mhd\\source\\repos\\EMGVoitures\\EMGVoitures\\appsettings.json",
+              "RelativeDocumentMoniker": "EMGVoitures\\appsettings.json",
+              "ToolTip": "C:\\Users\\mhd\\source\\repos\\EMGVoitures\\EMGVoitures\\appsettings.json",
+              "RelativeToolTip": "EMGVoitures\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-30T12:23:15.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mhd\\source\\repos\\EMGVoitures\\EMGVoitures\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "EMGVoitures\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\mhd\\source\\repos\\EMGVoitures\\EMGVoitures\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "EMGVoitures\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T12:51:23.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VoituresController.cs",
+              "DocumentMoniker": "C:\\Users\\mhd\\source\\repos\\EMGVoitures\\EMGVoitures\\Controllers\\VoituresController.cs",
+              "RelativeDocumentMoniker": "EMGVoitures\\Controllers\\VoituresController.cs",
+              "ToolTip": "C:\\Users\\mhd\\source\\repos\\EMGVoitures\\EMGVoitures\\Controllers\\VoituresController.cs",
+              "RelativeToolTip": "EMGVoitures\\Controllers\\VoituresController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAqwFoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T00:41:47.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VoituresControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\mhd\\source\\repos\\EMGVoitures\\EMGVoitures.Tests\\VoituresControllerTests.cs",
+              "RelativeDocumentMoniker": "EMGVoitures.Tests\\VoituresControllerTests.cs",
+              "ToolTip": "C:\\Users\\mhd\\source\\repos\\EMGVoitures\\EMGVoitures.Tests\\VoituresControllerTests.cs",
+              "RelativeToolTip": "EMGVoitures.Tests\\VoituresControllerTests.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAIwFQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T13:00:20.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "login.cshtml",
+              "DocumentMoniker": "C:\\Users\\mhd\\source\\repos\\EMGVoitures\\EMGVoitures\\Views\\Account\\login.cshtml",
+              "RelativeDocumentMoniker": "EMGVoitures\\Views\\Account\\login.cshtml",
+              "ToolTip": "C:\\Users\\mhd\\source\\repos\\EMGVoitures\\EMGVoitures\\Views\\Account\\login.cshtml",
+              "RelativeToolTip": "EMGVoitures\\Views\\Account\\login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-30T13:23:48.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\mhd\\source\\repos\\EMGVoitures\\EMGVoitures\\Views\\Voitures\\Create.cshtml",
+              "RelativeDocumentMoniker": "EMGVoitures\\Views\\Voitures\\Create.cshtml",
+              "ToolTip": "C:\\Users\\mhd\\source\\repos\\EMGVoitures\\EMGVoitures\\Views\\Voitures\\Create.cshtml",
+              "RelativeToolTip": "EMGVoitures\\Views\\Voitures\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T00:48:06.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\mhd\\source\\repos\\EMGVoitures\\EMGVoitures\\Views\\Voitures\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EMGVoitures\\Views\\Voitures\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\mhd\\source\\repos\\EMGVoitures\\EMGVoitures\\Views\\Voitures\\Edit.cshtml",
+              "RelativeToolTip": "EMGVoitures\\Views\\Voitures\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T13:16:08.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EMGVoitures.Tests",
+              "DocumentMoniker": "C:\\Users\\mhd\\source\\repos\\EMGVoitures\\EMGVoitures.Tests\\EMGVoitures.Tests.csproj",
+              "RelativeDocumentMoniker": "EMGVoitures.Tests\\EMGVoitures.Tests.csproj",
+              "ToolTip": "C:\\Users\\mhd\\source\\repos\\EMGVoitures\\EMGVoitures.Tests\\EMGVoitures.Tests.csproj",
+              "RelativeToolTip": "EMGVoitures.Tests\\EMGVoitures.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-31T13:06:31.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\mhd\\source\\repos\\EMGVoitures\\EMGVoitures\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "EMGVoitures\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\mhd\\source\\repos\\EMGVoitures\\EMGVoitures\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "EMGVoitures\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T12:32:57.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EMGVoitures.csproj",
+              "DocumentMoniker": "C:\\Users\\mhd\\source\\repos\\EMGVoitures\\EMGVoitures\\EMGVoitures.csproj",
+              "RelativeDocumentMoniker": "EMGVoitures\\EMGVoitures.csproj",
+              "ToolTip": "C:\\Users\\mhd\\source\\repos\\EMGVoitures\\EMGVoitures\\EMGVoitures.csproj",
+              "RelativeToolTip": "EMGVoitures\\EMGVoitures.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-30T12:25:08.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Voiture.cs",
+              "DocumentMoniker": "C:\\Users\\mhd\\source\\repos\\EMGVoitures\\EMGVoitures\\Models\\Voiture.cs",
+              "RelativeDocumentMoniker": "EMGVoitures\\Models\\Voiture.cs",
+              "ToolTip": "C:\\Users\\mhd\\source\\repos\\EMGVoitures\\EMGVoitures\\Models\\Voiture.cs",
+              "RelativeToolTip": "EMGVoitures\\Models\\Voiture.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T12:28:30.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\mhd\\source\\repos\\EMGVoitures\\EMGVoitures\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "EMGVoitures\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\mhd\\source\\repos\\EMGVoitures\\EMGVoitures\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "EMGVoitures\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T13:17:18.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\mhd\\source\\repos\\EMGVoitures\\EMGVoitures\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "EMGVoitures\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\mhd\\source\\repos\\EMGVoitures\\EMGVoitures\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "EMGVoitures\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-30T13:24:19.23Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

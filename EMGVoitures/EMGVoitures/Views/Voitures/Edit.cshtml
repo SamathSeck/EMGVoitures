@@ -1,0 +1,34 @@
+﻿@model EMGVoitures.Models.Voiture
+
+<h2>Modifier une voiture</h2>
+
+<form asp-action="Edit">
+    <div class="form-group">
+        <label asp-for="Marque" class="control-label"></label>
+        <input asp-for="Marque" class="form-control" />
+        <span asp-validation-for="Marque" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Modele" class="control-label"></label>
+        <input asp-for="Modele" class="form-control" />
+        <span asp-validation-for="Modele" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Annee" class="control-label"></label>
+        <input asp-for="Annee" class="form-control" />
+        <span asp-validation-for="Annee" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Description" class="control-label"></label>
+        <textarea asp-for="Description" class="form-control"></textarea>
+        <span asp-validation-for="Description" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="PhotoUrl" class="control-label"></label>
+        <input asp-for="PhotoUrl" class="form-control" />
+        <span asp-validation-for="PhotoUrl" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Modifier" class="btn btn-primary" />
+    </div>
+</form>

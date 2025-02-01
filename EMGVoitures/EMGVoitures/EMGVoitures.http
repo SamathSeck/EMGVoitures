@@ -1,0 +1,6 @@
+@EMGVoitures_HostAddress = http://localhost:5219
+
+GET {{EMGVoitures_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
